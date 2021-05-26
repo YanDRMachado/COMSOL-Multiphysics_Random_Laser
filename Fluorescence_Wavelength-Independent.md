@@ -10,7 +10,7 @@ The calculated result of φ_x (r) in the first step is used as initial condition
 	
 Equation (2):
 
-φ<sub>m</sub>(r) - ∇D<sub>m</sub>(r) ∇φ<sub>m</sub>(r) + μ<sub>am</sub>(r)  φ<sub>m</sub>(r) = μ<sub>af</sub> γ<sub>m</sub> φ<sub>x</sub> (r) <div style="text-align: right">(2)</div>
+φ<sub>m</sub>(r) - ∇D<sub>m</sub>(r) ∇φ<sub>m</sub>(r) + μ<sub>am</sub>(r)  φ<sub>m</sub>(r) = μ<sub>af</sub> γ<sub>m</sub> φ<sub>x</sub> (r) <div style="text-align: left">(2)</div>
 
 where φ_m (r) is the fluence rate of the emission light in a medium, μ_af is the absorption coefficient at the excitation wavelength, φ_x (r)  is the excitation light fluence rate obtained after solving the equation (1) and γ_m is the fluorescence yield fraction. In the Equation (2) the diffusion and absorption coefficients are defined according to the material chosen to be the active medium and its source term is the fluence rate for the fluorescence emission (which will be later used as a parameter of the electromagnetic field that will be scattered by the nanoparticles to achieve the non-coherent feedback already studied experimentally)
 
