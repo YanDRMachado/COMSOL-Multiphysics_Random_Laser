@@ -3,14 +3,14 @@ The diffusion equation is used to model propagating light in a medium and find i
 
 Equation (1):
 
-φ_x (r)-∇D_x (r)  ∇φ_x (r)+μ_ax (r)  φ_x (r)=S_x (r)				(1)
+φ_x (r)-∇D_x (r)  ∇φ_x (r)+μ_ax (r)  φ_x (r)=S_x (r)				
 
 φ_x (r)  is the fluence rate of the propagating light in a medium, S_x (r) is the source term, D_x (r) is the diffusion coefficient and μ_ax (r) is the absorption coefficient.
 The calculated result of φ_x (r) in the first step is used as initial condition (excitation light, source term) to the following step that describes the spontaneous emission defined by Equation (2)
 	
 Equation (2):
 
-φ<sub>m</sub>(r) - ∇D<sub>m</sub>(r) ∇φ<sub>m</sub>(r) + μ<sub>am</sub>(r)  φ<sub>m</sub>(r) = μ<sub>af</sub> γ<sub>m</sub> φ<sub>x</sub> (r) <div style="text-align: left">(2)</div>
+φ<sub>m</sub>(r) - ∇D<sub>m</sub>(r) ∇φ<sub>m</sub>(r) + μ<sub>am</sub>(r)  φ<sub>m</sub>(r) = μ<sub>af</sub> γ<sub>m</sub> φ<sub>x</sub> (r) 
 
 where φ_m (r) is the fluence rate of the emission light in a medium, μ_af is the absorption coefficient at the excitation wavelength, φ_x (r)  is the excitation light fluence rate obtained after solving the equation (1) and γ_m is the fluorescence yield fraction. In the Equation (2) the diffusion and absorption coefficients are defined according to the material chosen to be the active medium and its source term is the fluence rate for the fluorescence emission (which will be later used as a parameter of the electromagnetic field that will be scattered by the nanoparticles to achieve the non-coherent feedback already studied experimentally)
 
