@@ -1,4 +1,4 @@
-# RandomLaser / Fluorescence Simulations using COMSOL-Multiphysics 
+# Random Laser Simulations using COMSOL-Multiphysics 
 ### + OriginLab and MATLAB for data analysis / equation solving
 
 The simulation is divided into three parts:
