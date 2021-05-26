@@ -13,4 +13,4 @@ In the first part I present a 3D model based on the Finite Element Method (FEM) 
 This first problem is divided in two steps: the excitation of an arbitrary fluorescent material by the absorption of the energy from incident photons and the spontaneous emission of the material when it is returning to the ground state.
 For our tests we chose to model Rhodamine 6G, a fluroescent dye derivative of xanthene. Its fluorescence has been vastly studied and I personally characterized its optical properties experimentally, making us able to compare our theoretical results to our real experiments.
 
-To see the parameters, equations, geometry, boundary conditions, mesh and results of the fluorescence simulation **[click here](Fluorescence.md)**.
+To see the parameters, equations, geometry, boundary conditions, mesh and results of the fluorescence simulation **[click here](Fluorescence (Wavelength Independent).md)**.
