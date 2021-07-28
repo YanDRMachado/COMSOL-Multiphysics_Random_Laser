@@ -14,3 +14,5 @@ This first problem is divided in two steps: the excitation of an arbitrary fluor
 For our tests we chose to model Rhodamine 6G, a fluroescent dye derivative of xanthene. Its fluorescence has been vastly studied and I personally characterized its optical properties experimentally, making us able to compare our theoretical results to our real experiments.
 
 To see the parameters, equations, geometry, boundary conditions, mesh and results of the fluorescence simulation **[click here](Fluorescence_Simulation_Summary.pdf)**.
+
+## 2 Scattering
