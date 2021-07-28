@@ -4,7 +4,7 @@
 The simulation is divided into three parts:
 1. fluorescence
 2. scattering
-3. reincidence of scattered photons into the sample (incoherent feedback)
+3. reincidence of scattered photons into the sample (3D - incoherent feedback / 2D - coherent feedback)
 
 ## 1 Fluorescence
 
