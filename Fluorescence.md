@@ -37,6 +37,5 @@ respectively.
 The subscript i represents the emission wavelength, em and ex are related to the emission and excitation light sources.
 
 
-### 2 Definitions / Parameters summary
- 
+
 
