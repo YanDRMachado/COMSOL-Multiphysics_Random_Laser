@@ -16,3 +16,14 @@ For our tests we chose to model Rhodamine 6G, a fluroescent dye derivative of xa
 To see the parameters, equations, geometry, boundary conditions, mesh and results of the fluorescence simulation **[click here](Fluorescence_Simulation_Summary.pdf)**.
 
 ## 2 Scattering
+
+As expected, Maxwell's equations are the basis of our theoretical and computational methods to describe light scattering. We will usually work with spheres for which the analytical solutions are known and calculated in terms of infinite series in COMSOL.
+The relative size of the scattering particle is defined by its size parameter x, which is the radio of its characteristic dimension to its wavelength. 
+
+x = 2 * Pi * r / lambda
+
+For particles much smaller than the wavelength of the light (x << 1), COMSOL will solve our Maxwell eqs. according to Rayleigh scattering regimes.
+
+For any spherical particles with any other arbitrary sizes (specially in the same dimension of the wavelength) we will be using Lorentz-Mie solutions. 
+
+More complex shapes such as coated spheres, multispheres, spheroids, and infinite cylinders there are extensions which express the solution in terms of infinite series.
